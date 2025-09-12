@@ -1,0 +1,3 @@
+const somar = require('./som');
+
+console.log('Sua conta deu: ', somar(10, 9));
